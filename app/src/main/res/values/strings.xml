@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PedidosLegacy</string>
+    <string name="title_activity_crear_pedido">CrearPedido</string>
+</resources>
